@@ -1,4 +1,8 @@
+# Bamazon Customer View
 ![Customer View](./img/customerView/customerView1.JPG)
+
+
+# Bamazon Manager View
 
 ![Manager View 1](./img/managerView/managerView1.JPG)
 
